@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarkesh2shar" alt="tarkesh2shar" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes , Postgres**
+- 🌱 I’m currently learning **Kubernetes , Postgres , NeuralNet**
 
 - 👨‍💻 All of my projects are available at [https://tarkesh2shar.herokuapp.com/](https://tarkesh2shar.herokuapp.com/)
 
